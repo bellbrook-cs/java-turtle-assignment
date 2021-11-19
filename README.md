@@ -1,23 +1,35 @@
 # Template Assignment
 
-## Description
+## Problem Statement
 
-## Sample Input
+## Input Description
+
+## Sample Input/Output
+
+## Submission
+
+Please submit the following to google classroom:
+
+1. `Main.java`
+    * Hover over `Main.java`.
+    * Click the three dots to the right of the file name.
+    * Click `Download`.
+    * Upload the downloaded file to google classroom.
+2. A link to your replit project
 
 ## Rubric
-
 
 <table>
 <tbody>
   <tr>
     <td valign="top"><b>Coded Solution</b><br><br>The coded solutions works correctly with no syntax, logic, or run-time errors.</td>
-    <td valign="top"><b>8pts</b><br><br>* The submitted code compiles successfully. <br><br>* The submitted program is free of run-time and logic errors. <br><br>* The submitted program returns the anticipated output for all input tested by Mr. Schultz.
+    <td valign="top"><b>8pts</b><br><br>* The submitted code compiles successfully. <br><br>* The submitted program is free of run-time and logic errors. <br><br>* The submitted program returns the anticipated output for all input tested.
 </td>
-    <td valign="top"><b>4pts</b><br><br>* The submitted program compiles successfully. <br><br>* The submitted program includes run-time and/or logic errors that result in correct output. <br><br>* The submitted program returns the anticipated output for most (but not all) input tested by Mr. Schultz.
+    <td valign="top"><b>4pts</b><br><br>* The submitted program compiles successfully. <br><br>* The submitted program includes run-time and/or logic errors that result in correct output. <br><br>* The submitted program returns the anticipated output for most (but not all) input tested.
 </td>
-    <td valign="top"><b>2pts</b><br><br>* A program is submitted but it fails to compile. <br><br><b><em>or</em></b> <br><br>* The submitted program compiles correctly. <br><br>* The submitted program includes run-time and/or logic errors that result in incorrect output. <br><br>* The submitted program returns the anticipated output for less than half of the input tested by Mr. Schultz
+    <td valign="top"><b>2pts</b><br><br>* A program is submitted but it fails to compile. <br><br><b><em>or</em></b> <br><br>* The submitted program compiles correctly. <br><br>* The submitted program includes run-time and/or logic errors that result in incorrect output. <br><br>* The submitted program returns the anticipated output for less than half of the input tested.
 </td>
-    <td valign="top"><b>0pts</b><br><br>A program solution is not submitted.
+    <td valign="top"><b>0pts</b><br><br>* A program solution is not submitted.
 </td>
   </tr>
   <tr>
@@ -28,7 +40,7 @@
 </td>
     <td valign="top"><b>2pts</b><br><br>* The program incorrectly uses the target concepts being discussed in class or outlined within the project specifications for the given problem situation. <br><br>* Minimal effort to use the target concepts is evident.
 </td>
-    <td valign="top"><b>0pts</b><br><br>* A program solution is not submitted. <br><br><b><em>or</em></b> No attempt was made to use the target concepts being discussed in class or outlined within the project specifications for the given problem situation.
+    <td valign="top"><b>0pts</b><br><br>* A program solution is not submitted. <br><br><b><em>or</em></b><br><br> * No attempt was made to use the target concepts being discussed in class or outlined within the project specifications for the given problem situation.
 </td>
   </tr>
   <tr>
@@ -50,6 +62,3 @@
   </tr>
 </tbody>
 </table>
-
-## Submission
-
